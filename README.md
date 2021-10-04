@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kayla !
-- 👀 I’m interested in coding , reading and collecting stationery !
-- 🌱 I’m currently learning c++
-- 💞️ I’m a first year Computer Science student at the University of the West Indies
+- 👀 I enjoy coding,reading and meeting new people !
+- 🌱 I’m currently learning C++,HTML and CSS
+- 💞️ I’m a first year BSc Computer Science student at the University of the West Indies
 - 📫 How to reach me : kayladaniel200@gmail.com
 
 <!---
